@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{485F538F-125C-4138-8BA7-19C4013F249C}|Default">
+  <MonoDevelop.Ide.ItemProperties.aut4CsharpNUnit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="aut4CsharpNUnit/PageObject/MenuPage.cs">
+    <Files>
+      <File FileName="aut4CsharpNUnit/PageObject/LoginPage.cs" Line="42" Column="32" />
+      <File FileName="aut4CsharpNUnit/BasicConfiguration.cs" />
+      <File FileName="aut4CsharpNUnit/app.config" />
+      <File FileName="aut4CsharpNUnit/TestCase_Suite/LoginTest.cs" />
+      <File FileName="aut4CsharpNUnit/PageObject/MenuPage.cs" Line="37" Column="1" />
+      <File FileName="aut4CsharpNUnit/TestCase_Suite/MenuTest.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aut4CsharpNUnit" expanded="True">
+            <Node name="aut4CsharpNUnit" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="PageObject" expanded="True">
+                <Node name="LoginPage.cs" selected="True" />
+              </Node>
+              <Node name="TestCase_Suite" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
