@@ -5059,7 +5059,7 @@
       "outputPath": "/Users/luizmacedo/Library/k2project/C#/aut4CsharpNUnit/git/DotNet_NUnit_csharp_automation/aut4CsharpNUnit/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/luizmacedo/.config/NuGet/NuGet.Config"
+        "/Users/luizmacedo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

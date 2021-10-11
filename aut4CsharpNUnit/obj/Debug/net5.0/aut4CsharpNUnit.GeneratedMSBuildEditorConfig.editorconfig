@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = aut4CsharpNUnit
-build_property.ProjectDir = /Users/luizmacedo/Library/k2project/C#/aut4CsharpNUnit/aut4CsharpNUnit/
+build_property.ProjectDir = /Users/luizmacedo/Library/k2project/C#/aut4CsharpNUnit/git/DotNet_NUnit_csharp_automation/aut4CsharpNUnit/
