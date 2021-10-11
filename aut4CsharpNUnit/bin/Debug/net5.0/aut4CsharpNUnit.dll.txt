@@ -1,0 +1,2 @@
+TestCase_Suite.LoginTest.ValidatingFirstScreen
+TestCase_Suite.MenuTest.ValidatingFirstScreen
